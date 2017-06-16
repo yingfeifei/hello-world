@@ -6,3 +6,6 @@ Hi humans!
     
     
     Thans for giving comments!
+
+
+Today is Friday!
